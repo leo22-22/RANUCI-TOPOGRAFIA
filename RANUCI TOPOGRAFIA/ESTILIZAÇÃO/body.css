@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(2, 100, 2);
+}
+
+#divisao{
+    display: flex;
+    justify-content: space-around;
+    border: 5px solid white;
+}
+
+.pagina_inicial{
+    font-size: 20px;
+}

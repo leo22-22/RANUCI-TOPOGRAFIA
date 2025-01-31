@@ -1,0 +1,15 @@
+header{
+    display: flex;
+    justify-content: center;
+    color: white;
+    text-shadow: white;
+    font-size: 70px;
+}
+
+#subtitulo{
+    display: flex;
+    justify-content: center;
+    color: white;
+    text-shadow: white;
+    font-size: 15px;
+}
