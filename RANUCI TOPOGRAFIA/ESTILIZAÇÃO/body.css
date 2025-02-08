@@ -1,13 +1,59 @@
 body{
-    background-color: rgb(2, 100, 2);
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 80, 0);
 }
 
 #divisao{
     display: flex;
     justify-content: space-around;
-    border: 5px solid white;
 }
 
 .pagina_inicial{
     font-size: 20px;
+}
+
+.topicos{
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.esquerda{
+    display: flex;
+    justify-content: left;
+    text-align: left;
+    font-size: 20px;
+}
+
+.direita{
+    display: flex;
+    justify-content: right;
+    text-align: right;
+    font-size: 20px;
+}
+
+.imagem-direita{
+    display: flex;
+    justify-content: left;
+    text-align: left;
+    width: 80%;
+    border: 5px solid rgb(0, 80, 0);
+    border-radius: 20px;
+}
+
+.imagem-esquerda{
+    display: flex;
+    justify-content: left;
+    text-align: left;
+    width: 80%;
+    border: 5px solid rgb(0, 80, 0);
+    border-radius: 20px;
+}
+
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px; /* Espaço entre a imagem e o texto */
+    margin: 20px;
 }

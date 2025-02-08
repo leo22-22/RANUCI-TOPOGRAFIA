@@ -1,7 +1,7 @@
 header{
     display: flex;
     justify-content: center;
-    color: white;
+    color: rgb(0, 80, 0);
     text-shadow: white;
     font-size: 70px;
 }
@@ -9,7 +9,7 @@ header{
 #subtitulo{
     display: flex;
     justify-content: center;
-    color: white;
+    color: rgb(0, 80, 0);
     text-shadow: white;
     font-size: 15px;
 }
